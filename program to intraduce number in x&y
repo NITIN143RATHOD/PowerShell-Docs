@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <conio.h>
+ void main ()
+ {
+ clrscr ();
+ int x;
+ int y;
+ x=10;
+ y=20;
+ printf("the value of x is =%d",x);
+ printf('the value of y is =%d",y);
+ getch();
+ 
+ 
